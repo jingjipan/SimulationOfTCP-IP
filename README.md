@@ -1,5 +1,5 @@
 # ece3700
-This is for the storage of my ece 3700 course, which is about routing algorithms and the algorithms of data transmission.
+These are my lab solutions of ece 3700 course, which are about routing algorithms and the algorithms of data transmission.
 The alternative bit algorithm is shown in the first project.
 The go-back-n algorithm is shown in the second project.
 The forwarding table algorithm is shown in the third project.
